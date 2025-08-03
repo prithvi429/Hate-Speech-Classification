@@ -1,0 +1,1 @@
+from hate.logger import logging
